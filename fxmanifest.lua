@@ -2,8 +2,7 @@ fx_version 'cerulean'
 games {'gta5'}
 
 client_scripts {
-	"main.lua",
-	"config.lua"
+	"main.lua"
 }
 
 ui_page('html/index.html')
